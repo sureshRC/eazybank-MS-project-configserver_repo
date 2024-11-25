@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related local APIs "
+  contactDetails:
+    name: "Suresh Kukkala - Developer"
+    email: "suresh@gmail.com"
+  onCallSupport:
+    - +91 9876979038
+    - +91 9876979037

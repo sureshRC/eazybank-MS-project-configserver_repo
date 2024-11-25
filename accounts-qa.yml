@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related QA APIs "
+  contactDetails:
+    name: "Devi Kukkala - QA Lead"
+    email: "devi@gmail.com"
+  onCallSupport:
+    - +91 9876965038
+    - +91 9876954037
