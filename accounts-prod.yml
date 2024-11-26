@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related webhook PRODUCTION APIs "
+  message: "Welcome to EazyBank accounts related webhook PROD APIs "
   contactDetails:
     name: "Ganapathi Nakkina - Product owner"
     email: "{cipher}4977146911d2cda84883990ba4522f8c7da15eead525d3bbd9098bffbea6a2e513d7f77522d82216477253d0f14f27d4"
